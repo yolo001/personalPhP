@@ -1,0 +1,20 @@
+.hello {
+  margin: 1.9rem 0 0 10%;
+  display: -webkit-box;
+}
+
+.hello img {
+  border-radius: 50%;
+  max-width: 6em;
+}
+
+.hello .title {
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin: 0px;
+}
+
+.margin-2 {
+  margin: 1em 0 0px 11%;
+}
+/*# sourceMappingURL=style.css.map */

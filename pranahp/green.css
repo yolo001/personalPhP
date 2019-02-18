@@ -1,0 +1,158 @@
+/* TABLE OF CONTENTS
+	1. Template Green
+*/
+
+/* 1. Template Green */
+.background {
+  background-color: rgba(46, 202, 127, 0.4);
+}
+
+.preloader .spinner .double-bounce1,
+.preloader .spinner .double-bounce2 {
+  background: #2eca7f;
+}
+
+.lnk:hover,
+.button:hover {
+  color: #2eca7f;
+}
+
+.lnk:hover .ion,
+.button:hover .ion {
+  color: #2eca7f;
+}
+
+.lnk:hover .arrow:before,
+.button:hover .arrow:before,
+.lnk:hover .arrow:after,
+.button:hover .arrow:after {
+  background: #2eca7f;
+}
+
+input:focus,
+textarea:focus,
+button:focus {
+  border-bottom: 1px solid #2eca7f;
+}
+
+button:hover {
+  border-bottom: 1px solid #2eca7f;
+}
+
+.header .top-menu ul li:hover a,
+.header .top-menu ul li.active a {
+  color: #2eca7f;
+}
+
+.header .top-menu ul li:hover a .icon,
+.header .top-menu ul li.active a .icon,
+.header .top-menu ul li:hover a .link,
+.header .top-menu ul li.active a .link {
+  color: #2eca7f;
+}
+
+.card-started:after {
+  background: #00F260;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0575E6, #00F260);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0575E6, #00F260);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.card-started .profile .image:before {
+  background: #00F260;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0575E6, #00F260);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0575E6, #00F260);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.card-started .profile .subtitle {
+  background: linear-gradient(to right, #0575E6 50%, #00F260 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-started .profile .social a:hover .ion,
+.card-started .profile .social a:hover .fab,
+.card-started .profile .social a:hover .fas {
+  color: #2eca7f;
+}
+
+.content .title:before {
+  background: -moz-linear-gradient(to right, #00f260, #00f1a1, #00edd2, #00e5f1, #00dbfd, #00d0fe, #15c4fc, #32b8f9, #00a8f7, #0098f3, #0087ee, #0575e6);
+  background: -webkit-linear-gradient(to right, #00f260, #00f1a1, #00edd2, #00e5f1, #00dbfd, #00d0fe, #15c4fc, #32b8f9, #00a8f7, #0098f3, #0087ee, #0575e6);
+  background: linear-gradient(to right, #00f260, #00f1a1, #00edd2, #00e5f1, #00dbfd, #00d0fe, #15c4fc, #32b8f9, #00a8f7, #0098f3, #0087ee, #0575e6);
+}
+
+
+.service-items .service-item .icon {
+  background: -moz-radial-gradient(center, ellipse cover, #2eca7f 0%, #2eca7f 4%, #0575E6 100%); /* ff3.6+ */
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #2eca7f), color-stop(4%, #2eca7f), color-stop(100%, #0575E6)); /* safari4+,chrome */
+  background: -webkit-radial-gradient(center, ellipse cover, #2eca7f 0%, #2eca7f 4%, #0575E6 100%); /* safari5.1+,chrome10+ */
+  background: -o-radial-gradient(center, ellipse cover, #2eca7f 0%, #2eca7f 4%, #0575E6 100%); /* opera 11.10+ */
+  background: -ms-radial-gradient(center, ellipse cover, #2eca7f 0%, #2eca7f 4%, #0575E6 100%); /* ie10+ */
+  background: radial-gradient(ellipse at center, #2eca7f 0%, #2eca7f 4%, #0575E6 100%); /* w3c */
+  line-height: 2;
+}
+
+.pricing-items .pricing-item .icon {
+  color: #2eca7f;
+}
+
+.pricing-items .pricing-item .feature-list ul li strong {
+  background: rgba(46, 202, 127, 0.4);
+}
+
+.fuct-items .fuct-item .icon {
+  color: #2eca7f;
+}
+
+.resume-title .icon,
+.skill-title .icon {
+  color: #2eca7f;
+}
+
+.resume-items .resume-item.active .date {
+  background: linear-gradient(to right, #0575E6 0%, #00F260 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.resume-items .resume-item.active .date:before {
+  background: #2eca7f;
+}
+
+.skills-list ul li .progress .percentage {
+  background: #2eca7f;
+}
+
+.content.works .filter-menu .f_btn.active {
+  color: #2eca7f;
+}
+
+.box-item .image .info:before {
+  background: -moz-linear-gradient(-45deg, rgba(46, 202, 127, 0.4) 0%, rgba(46, 202, 127, 0.01) 100%);
+  background: -webkit-linear-gradient(-45deg, rgba(46, 202, 127, 0.4) 0%, rgba(46, 202, 127, 0.01) 100%);
+  background: linear-gradient(135deg, rgba(46, 202, 127, 0.4) 0%, rgba(46, 202, 127, 0.01) 100%);
+}
+
+.post-box .blog-content blockquote {
+  border-left: 2px solid #2eca7f;
+}
+
+.post-box .blog-content ul.list-style li:before {
+  background: #2eca7f;
+}
+
+.post-box .post-comments li .comment-info .name h6 {
+  color: #2eca7f;
+}
+
+.background.gradient {
+  background: #50a3a2;
+  background: -webkit-linear-gradient(top left, #50a3a2 0%, #2eca7f 100%);
+  background: linear-gradient(to bottom right, #50a3a2 0%, #2eca7f 100%);
+}
